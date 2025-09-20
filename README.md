@@ -2,16 +2,20 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Database (MySQL, Handlebars, Node.js, and Next.js)</b>
+- <b>Senior Capstone (MySQL, React Native, Node.js)</b>
+  - [Travel Planner App (React Native, Node.js, MySQL)](https://github.com/villafla/cs461_travel_planner)
+- <b>Databases (MySQL, Handlebars, Node.js, and Next.js)</b>
   - ["Magic Wares" Web App](https://github.com/thatsaksyguy/cs340_webapp)
-- <b>Full Stack Web App (React, Express, MongoDB, Mongoose, REST, HTML, CSS)</b>
+- <b>Web Development (React, Express, MongoDB, Mongoose, REST, HTML, CSS)</b>
   - ["Exercises" Web App](https://github.com/thatsaksyguy/Exercises-App)
-- <b>Assembly</b>
+- <b>Assembly Language</b>
   - [String Primitives and Macros](https://github.com/thatsaksyguy/String-Primitives-and-Macros)
-- <b>C++</b>
+- <b>C++ Fundamentals</b>
   - [Song Playlist Manager](https://github.com/thatsaksyguy/Song-Playlist-Manager)
-- <b>Python</b>
+- <b>Data Structures</b>
   - [Hash Map](https://github.com/thatsaksyguy/Hash-Map)
+ 
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -24,10 +28,7 @@
 
 <h2> 🔭 What I'm learning/working on right now:</h2>
 
-- Senior Capstone (CS 463):
-  - [Travel Planner App (React Native, Node.js, MySQL)](https://github.com/villafla/cs461_travel_planner)
-- Cloud App Development (CS 493)
-- Introduction to Security (CS 370)
+
 
 
 
